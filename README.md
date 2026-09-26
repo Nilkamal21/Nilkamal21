@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Nilkamal%20Adhikari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20Autonomous%20AI%20Systems%20%26%20a%20Language%20of%20My%20Own&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Nilkamal%20Adhikari&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%"/>
+
+<h3>Building Autonomous AI Systems &amp; a Language of My Own</h3>
 
 <a href="https://www.linkedin.com/in/nilkamal-adhikari-210592323">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Nilkamal21">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://nilkamaladhikari.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
@@ -183,14 +182,6 @@ Grades its own retrieval quality, rewrites weak queries, falls back to the web, 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilkamal21&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nilkamal21&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilkamal21&theme=tokyo-night&hide_border=true" />
 </p>
 
 <br>
