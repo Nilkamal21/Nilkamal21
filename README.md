@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Nilkamal%20Adhikari&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%"/>
 
-<h3>Building Autonomous AI Systems &amp; a Language of My Own</h3>
+<h3>Computer Science Student &nbsp;·&nbsp; Data, AI &amp; Software Engineering</h3>
 
 <a href="https://www.linkedin.com/in/nilkamal-adhikari-210592323">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,11 +17,29 @@
 
 ## ⚡ About
 
-I'm a Computer Science student who doesn't stop at using tools — I build them from the ground up. My work spans **agentic AI systems**, **corrective RAG pipelines**, and **multi-agent simulations**, but the projects I'm proudest of go one level deeper: a **programming language** I designed and compiled myself, and a **GPT-style Transformer** written in raw NumPy with no framework to lean on.
+I'm a Computer Science student who learns best by building. That curiosity has taken me from data analysis and dashboards into machine learning, and more recently into generative AI, retrieval systems, and multi-agent architectures. Along the way I built a small programming language and a Transformer from scratch — not because I needed to, but because I wanted to actually understand what happens underneath the tools I use every day.
 
-```
-Data Analysis  →  Machine Learning  →  Deep Learning  →  Generative AI
-      →  Agentic Systems  →  Multi-Agent Architectures  →  Systems & Language Design
+- 🔭 Currently exploring agentic AI, RAG pipelines, and multi-agent systems
+- 🧩 Like taking things apart to understand how they work — hence the language and the from-scratch Transformer
+- 📊 Started out in data analysis & BI before moving into ML/AI
+- 🤝 Always open to learning from and building with others
+
+<br>
+
+```mermaid
+flowchart LR
+    A[Data Analysis] --> B[Machine Learning]
+    B --> C[Deep Learning]
+    C --> D[Generative AI]
+    D --> E[Agentic Systems]
+    E --> F[Multi-Agent Architectures]
+
+    style A fill:#1e1b4b,stroke:#8B5CF6,color:#fff
+    style B fill:#1e1b4b,stroke:#8B5CF6,color:#fff
+    style C fill:#312e81,stroke:#8B5CF6,color:#fff
+    style D fill:#3730a3,stroke:#8B5CF6,color:#fff
+    style E fill:#4c1d95,stroke:#8B5CF6,color:#fff
+    style F fill:#5b21b6,stroke:#8B5CF6,color:#fff
 ```
 
 <br>
