@@ -194,8 +194,8 @@ Grades its own retrieval quality, rewrites weak queries, falls back to the web, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nilkamal21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilkamal21&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Nilkamal21?label=Followers&style=for-the-badge&color=6366F1&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Nilkamal21&label=Public%20Repos&query=public_repos&style=for-the-badge&color=8B5CF6&logo=github" />
 </p>
 
 <p align="center">
